@@ -1,3 +1,4 @@
+---
 name: data-product-sensible-defaults
 description: This skill should be used when establishing, evaluating, or auditing technical stacks for analytical data management, analytics, data engineering, and data product lifecycle management.
 triggers:
