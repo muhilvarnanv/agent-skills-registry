@@ -1,3 +1,4 @@
+---
 name: frontend-sensible-defaults
 description: This skill should be used when determining, configuring, or validating the frontend technical stack, languages, and frameworks for operational and transactional web applications within TechOps.
 triggers:
