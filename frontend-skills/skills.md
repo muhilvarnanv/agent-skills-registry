@@ -38,7 +38,3 @@ For sophisticated frontend codebases that scale across multiple modules or requi
 When looking to spin up quick application prototypes or leverage serverless backend suites:
 * [cite_start]**Platforms:** Technologies like **Google Firebase** and **Amazon Amplify** offer streamlined database syncing, authentication, and hosting tools[cite: 153, 154, 156, 158]. 
 * [cite_start]**Guideline:** Because widespread organizational adoption is not yet established, these tools should currently be categorized under **responsible experimentation** rather than a core default[cite: 160, 161].
-
-## Additional Resources
-
-* `TechOps TechStack Sensible Defaults - 2023 Edition.pdf` — Section: "Frontend" (Pages 4, 13–15).
